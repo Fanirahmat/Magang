@@ -1,0 +1,45 @@
+.navbar-default
+{
+	margin-bottom: 0;
+	border-radius: 0;
+	background-color: #ffffff;
+	padding: 1% 0;
+	font-size: 1.2em;
+	border:0;
+}
+
+#navbar-header
+{
+	background-color: #ffffff;
+}
+.navbar-brand
+{
+	float: left;
+	min-height: 60px;
+	padding: 0 15px 5px;
+}
+#main-menu
+{
+	padding: 0 15px 15px;
+}
+
+.background
+{
+	background-image: url('../img/gambar.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
+.btn-hijau
+{
+	background: #28da28;
+	border-color: #28da28;
+	color: whitesmoke;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus 
+{
+	color: ;
+    background: transparent;
+}
